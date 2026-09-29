@@ -6,9 +6,7 @@
 I build **Sites**, **Plataforms**, and **high-performance web systems**.  
 I’m deeply focused on **architecture, performance, clean code, and business-driven solutions**.
 
-I also create content and share knowledge on **software development, SaaS, and tech entrepreneurship**.
 
----
 
 ## 🌐 Where to find me
 
